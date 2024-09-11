@@ -10,7 +10,7 @@
     },
 
     "record": {
-        "NX": ["ns1.an0ns.ru", "ns2.an0ns.ru"]
+        "NS": ["ns1.an0ns.ru", "ns2.an0ns.ru"]
     },
     "proxied": false
 }
