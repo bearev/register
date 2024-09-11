@@ -1,1 +1,16 @@
+{
+    "description": "A self-bio ",
 
+    "domain": "is-cool.dev",
+    "subdomain": "*.mic",
+
+    "owner": {
+        "repo": "https://github.com/xzonix/Register.",
+        "email": "mic@bearev.xyz"
+    },
+
+    "record": {
+        "NX": ["ns1.an0ns.ru", "ns2.an0ns.ru"]
+    },
+    "proxied": false
+}
